@@ -12,9 +12,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+Python
+Visual Studio Code
+Git and GitHub
 
 # Useful Websites
 
