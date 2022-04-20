@@ -1,12 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Hello! My name is Carly West, and I am a Software Engineering student. I hope to continue in my programming journey by growing my knowledge of many different languages! I hope to have a solid understanding of a few different languages, and a surface level on many others.
 
-{Provide a description of your software}
+This is a very complicated software that displays the phrase "Hello World!" when the play button is pressed. It is written in the Python programming language.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The purpose of this software is to print the phrase "Hello World!". 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
