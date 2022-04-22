@@ -6,7 +6,7 @@ This is a very complicated software that displays the phrase "Hello World!" when
 
 The purpose of this software is to print the phrase "Hello World!". 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/mwn10qee6Bw)
 
 # Development Environment
 
@@ -17,5 +17,4 @@ Git and GitHub
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [python.org](https://www.python.org/about/gettingstarted/)
